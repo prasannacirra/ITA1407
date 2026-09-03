@@ -1,0 +1,3 @@
+theharvester -d www.zoho.com -l 300 -b all
+
+theharvester -d www.zoho.com -l 300 -b all -f test

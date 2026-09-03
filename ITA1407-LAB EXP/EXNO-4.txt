@@ -1,0 +1,9 @@
+ls
+
+cat > smaple.txt
+
+mkdir myfolder 
+
+cat sample.txt
+
+ls

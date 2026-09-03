@@ -1,0 +1,9 @@
+touch sample.txt
+
+vi sample.txt
+
+less sample.txt
+
+more sample.txt
+
+cat sample.txt

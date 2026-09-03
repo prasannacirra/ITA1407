@@ -1,0 +1,7 @@
+uptime
+
+date
+
+mv sample.txt example.txt
+
+ls
